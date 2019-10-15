@@ -1,4 +1,5 @@
 # Getting Dressed
+* You have to get dressed in the morning before going to work
 * 1 = hat 
 * 2 = pants 
 * 3 = shirt 
