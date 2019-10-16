@@ -8,7 +8,7 @@
 # Pattern:
 *  Command Pattern
 *  Singleton Pattern
-# Test Cases with results:
+# Test Cases with Results:
 *  5 2 3 4 6 -> SOCKS PANTS SHIRT SHOES LEAVE  | Dressed Up and Leave == >>
 *  2 5 3 4 1 6 -> PANTS SOCKS SHIRT SHOES HATS LEAVE  | Dressed Up and Leave == >>
 *  3 1 2 5 4 6 -> SHIRT HATS PANTS SOCKS SHOES LEAVE  | Dressed Up and Leave == >>
