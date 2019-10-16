@@ -18,8 +18,7 @@ import com.rules.object.Shoes;
 import com.rules.object.Socks;
 
 public class DressFactory {
-	static public IDress instance = null;
-
+	
 	private DressFactory() {
 		super();
 	}
