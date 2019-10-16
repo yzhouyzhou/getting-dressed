@@ -53,7 +53,6 @@ public class DressApplication {
 		DressStates.getInstance().reset();
 		aList.forEach(item -> {
 			DressFactory.getInstance(item).execute();
-			;
 		});
 		DressStates.getInstance().getStatus();
 	}
